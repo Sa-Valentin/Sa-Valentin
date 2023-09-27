@@ -1,3 +1,4 @@
+------------------------------------------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sa-Valentin)](https://github.com/Sa-Valentin/github-readme-stats)<br/>
 <p>Tecnologias em que me foco:<p/>
 <div style='display: inline_block'><br/>
