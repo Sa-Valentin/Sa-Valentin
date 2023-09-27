@@ -6,5 +6,6 @@
   <img align='center' alt='JavaScript' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
   <img align='center' alt='CSS' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/>
 </div><br/>
-<p>Contato:</p>
+<p>Contato e Redes sociais:</p>
 <a href="mailto:Sa.VitorValentin@gmail.com"><img align='center' alt='GMAIL' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><a/>
+<a href="https://www.linkedin.com/in/samuel-valentin-54762a293/"><img align='center' alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
